@@ -1,0 +1,23 @@
+{
+  "name": "mjml-pugjs",
+  "version": "1.0.0",
+  "description": "mjml and pugjs example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skrymer/mjml-pugjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skrymer/mjml-pugjs/issues"
+  },
+  "homepage": "https://github.com/skrymer/mjml-pugjs#readme",
+  "dependencies": {
+    "pug": "^3.0.2",
+    "randomstring": "file:../node-randomstring"
+  }
+}
